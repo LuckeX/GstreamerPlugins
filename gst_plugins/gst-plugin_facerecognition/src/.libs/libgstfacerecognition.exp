@@ -1,0 +1,3 @@
+gst_face_recognition_get_type
+gst_plugin_facerecognition_get_desc
+gst_plugin_facerecognition_register
